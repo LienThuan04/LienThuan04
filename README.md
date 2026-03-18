@@ -36,9 +36,7 @@
 
 <h3>Discord Status</h3>
 
-<a href="https://discord.com/users/983724520789655613">
-<img src="https://lanyard.kyrie25.dev/api/983724520789655613" width="350"/>
-</a>
+<a href="https://discord.com/users/983724520789655613"><img src="https://lanyard.kyrie25.dev/api/983724520789655613?animatedDecoration=true&showDisplayName=true&forceGradient=false&imgStyle=circle&showBanner=animated&theme=dark&ignoreAppId=983724520789655613" width="350"/></a>
 
 </td>
 
