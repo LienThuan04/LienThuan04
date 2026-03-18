@@ -103,16 +103,12 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; max-width: 500px;">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" style="width: 100%; height: auto;">
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 300px; max-width: 500px;">
-    <a href="https://discord.com/users/983724520789655613">
-      <img src="https://lanyard.kyrie25.dev/api/983724520789655613" style="width: 100%; height: auto;">
-    </a>
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" width="400">
+  </a>
+  <a href="https://discord.com/users/983724520789655613">
+    <img src="https://lanyard.kyrie25.dev/api/983724520789655613" width="400">
+  </a>
 </div>
 ###
