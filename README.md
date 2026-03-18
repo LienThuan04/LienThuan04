@@ -103,8 +103,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://novatorem-one-peach.vercel.app/" alt="Widget with the current Spotify song"  />
-</div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true">
+  </a>
+</p>
 
 ###
