@@ -105,7 +105,8 @@
 
 <table align="center">
 <tr>
-<td align="center">
+
+<td align="center" valign="top">
 
 <h3>🎧 Spotify Now Playing</h3>
 
@@ -115,7 +116,7 @@
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
 <h3>💬 Discord Status</h3>
 
@@ -124,6 +125,7 @@
 </a>
 
 </td>
+
 </tr>
 </table>
 
