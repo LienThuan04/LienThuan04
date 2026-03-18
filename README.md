@@ -103,7 +103,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" width="400">
   </a>
