@@ -13,7 +13,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=LianHarman&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&rotate=0&stroke=FFFFFF&strokeWidth=1&animation=fadeIn&desc=IT%20Student%20%7C%20Lien%20Hoa%20Thuan%20(LianHarman)%20%7C%20he/him%20%7C%20lienthuan2004@gmail.com&descSize=20&descAlign=50&descAlignY=65&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=LianHarman&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=IT%20Student%20%7C%20Lien%20Hoa%20Thuan%20(LianHarman)%20%7C%20he/him%20%7C%20lienthuan2004@gmail.com&descSize=20&descAlign=50&descAlignY=65&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -99,6 +99,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://novatorem-pjl8tlzyh-lien-hoa-thuans-projects.vercel.app/?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
