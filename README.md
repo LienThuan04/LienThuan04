@@ -104,7 +104,7 @@
 ###
 
 <div align="center">
-  <img src="https://novatorem-pjl8tlzyh-lien-hoa-thuans-projects.vercel.app/?" alt="Widget with the current Spotify song"  />
+  <img src="https://novatorem-one-peach.vercel.app/" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
