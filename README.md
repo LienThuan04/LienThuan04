@@ -103,13 +103,28 @@
 
 ###
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" width="350"/>
-  </a>
-  <a href="https://discord.com/users/983724520789655613">
-    <img src="https://lanyard.kyrie25.dev/api/983724520789655613" width="350"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+
+<h3>🎧 Spotify Now Playing</h3>
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" width="350"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<h3>💬 Discord Status</h3>
+
+<a href="https://discord.com/users/983724520789655613">
+<img src="https://lanyard.kyrie25.dev/api/983724520789655613" width="350"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ###
