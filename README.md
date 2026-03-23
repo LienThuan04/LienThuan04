@@ -19,29 +19,80 @@
 ###
 
 
-<table align="center">
-<tr>
+<style>
+  .responsive-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px auto;
+  }
 
-<td align="center" valign="top">
+  .responsive-card {
+    flex: 1;
+    min-width: 250px;
+    max-width: 400px;
+    text-align: center;
+    padding: 15px;
+  }
 
-<h3>🎧 Spotify Now Playing</h3>
+  .responsive-card h3 {
+    margin: 10px 0;
+    font-size: 18px;
+  }
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" />
-</a>
+  .responsive-card img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+  }
 
-</td>
+  .responsive-card a {
+    display: inline-block;
+    width: 100%;
+  }
 
-<td align="center" valign="top">
+  @media (max-width: 768px) {
+    .responsive-section {
+      flex-direction: column;
+      gap: 30px;
+    }
 
-<h3>Discord Status</h3>
+    .responsive-card {
+      min-width: 100%;
+      max-width: 100%;
+      padding: 10px;
+    }
+  }
 
-<a href="https://discord.com/users/983724520789655613"><img src="https://lanyard.kyrie25.dev/api/983724520789655613?animatedDecoration=true&showDisplayName=true&forceGradient=false&imgStyle=circle&showBanner=animated&theme=dark&ignoreAppId=983724520789655613" /></a>
+  @media (max-width: 480px) {
+    .responsive-card h3 {
+      font-size: 16px;
+    }
 
-</td>
+    .responsive-section {
+      gap: 20px;
+      padding: 0 10px;
+    }
+  }
+</style>
 
-</tr>
-</table>
+<div class="responsive-section">
+  <div class="responsive-card">
+    <h3>🎧 Spotify Now Playing</h3>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" alt="Spotify Now Playing" />
+    </a>
+  </div>
+
+  <div class="responsive-card">
+    <h3>Discord Status</h3>
+    <a href="https://discord.com/users/983724520789655613">
+      <img src="https://lanyard.kyrie25.dev/api/983724520789655613?animatedDecoration=true&showDisplayName=true&forceGradient=false&imgStyle=circle&showBanner=animated&theme=dark&ignoreAppId=983724520789655613" alt="Discord Status" />
+    </a>
+  </div>
+</div>
 
 ###
 
