@@ -18,15 +18,15 @@
 
 ###
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px; align-items: center;">
-  <div style="width: calc(50% - 5px); text-align: center; padding: 8px;">
-    <h3 style="margin: 3px 0; font-size: 14px;">Spotify Now Playing</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: flex-start;">
+  <div style="flex: 1; min-width: 280px; max-width: 350px; text-align: center; padding: 8px;">
+    <h3 style="margin: 3px 0; font-size: 14px;">🎧 Spotify Now Playing</h3>
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true" style="display: inline-block; width: 100%;">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" alt="Spotify Now Playing" style="max-width: 100%; height: auto; display: block; border-radius: 8px;" />
     </a>
   </div>
 
-  <div style="width: calc(50% - 5px); text-align: center; padding: 8px;">
+  <div style="flex: 1; min-width: 280px; max-width: 350px; text-align: center; padding: 8px;">
     <h3 style="margin: 3px 0; font-size: 14px;">Discord Status</h3>
     <a href="https://discord.com/users/983724520789655613" style="display: inline-block; width: 100%;">
       <img src="https://lanyard.kyrie25.dev/api/983724520789655613?animatedDecoration=true&showDisplayName=true&forceGradient=false&imgStyle=circle&showBanner=animated&theme=dark&ignoreAppId=983724520789655613" alt="Discord Status" style="max-width: 100%; height: auto; display: block; border-radius: 8px;" />
