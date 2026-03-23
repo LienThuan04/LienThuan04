@@ -20,13 +20,13 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <h3>Spotify Now Playing</h3>
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" alt="Spotify Now Playing" width="100%" style="border-radius: 8px;" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <h3>Discord Status</h3>
       <a href="https://discord.com/users/983724520789655613">
         <img src="https://lanyard.kyrie25.dev/api/983724520789655613?animatedDecoration=true&showDisplayName=true&forceGradient=false&imgStyle=circle&showBanner=animated&theme=dark&ignoreAppId=983724520789655613" alt="Discord Status" width="100%" style="border-radius: 8px;" />
