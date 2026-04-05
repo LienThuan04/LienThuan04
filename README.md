@@ -88,7 +88,7 @@
 
 ###
 
-<p align="left">InterestedIn</p>
+<p align="left">Interested In</p>
 
 ###
 
