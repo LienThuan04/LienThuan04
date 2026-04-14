@@ -1,22 +1,94 @@
-<h2 align="center">Profile views</h2>
-
-###
-
 <div align="center">
-  <img src="https://count.getloli.com/@:LienThuan04?theme=rule34&padding=10&offset=1&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
-###
+<!-- ═══ TOP DIVIDER ═══════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ebebeb" alt="Lien Hoa Thuan typing animation"/>
+</picture>
 
-<h2 align="left">A little more about me</h2>
+<br />
 
-###
+<!-- ═══ NAME ══════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman" alt="Lien Hoa Thuan typing animation" />
+</picture>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=LianHarman&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=IT%20Student%20%7C%20Lien%20Hoa%20Thuan%20(LianHarman)%20%7C%20he/him%20%7C%20lienthuan2004@gmail.com&descSize=20&descAlign=50&descAlignY=65&textBg=false&color=gradient"  />
-</div>
+<!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=IT+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=IT+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=IT+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" alt="Lien Hoa Thuan typing animation" />
+</picture>
 
-###
+<br />
+
+<!-- ═══ SOCIAL BADGES ══════════════════════════════════════════ -->
+<a href="https://www.linkedin.com/in/lianharman/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=171717" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://discord.com/users/983724520789655613">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Discord-ffffff?style=flat-square&logo=discord&logoColor=171717" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@LienThuan04">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/YouTube-ffffff?style=flat-square&logo=youtube&logoColor=171717" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/LianHarman/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Facebook-ffffff?style=flat-square&logo=facebook&logoColor=171717" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://gitlab.com/LienThuan04">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/GitLab-ffffff?style=flat-square&logo=gitlab&logoColor=171717" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitLab-171717?style=flat-square&logo=gitlab&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/GitLab-171717?style=flat-square&logo=gitlab&logoColor=ffffff" />
+  </picture>
+</a>
+&nbsp;
+<a href="mailto:lienthuan2004@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=gmail&logoColor=171717" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
+  </picture>
+</a>
+
+
+<!-- ═══ DIVIDER ════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
+</picture>
+
+<br/>
+
+## Now Playing
 
 <table align="center">
   <tr>
@@ -34,90 +106,66 @@
     </td>
   </tr>
 </table>
+<br />
+
+<!-- <br clear="both"> -->
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LienThuan04&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LienThuan04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div> -->
 
 ###
+
+<div align="center">
+  <img width="100%" src="./.github/assets/Yeshuanguang.gif" alt="Lien Hoa Thuan typing animation" />
+</div>
+
+## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=LienThuan04&radius=4&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=ffffff&line=5ba4f5&point=5ba4f5&area_color=1a2a3a" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=LienThuan04&radius=4&theme=minimal&area=true&hide_border=true&bg_color=ffffff&color=171717&line=171717&point=0072f5&area_color=ebf5ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LienThuan04&radius=4&theme=minimal&area=true&hide_border=true&bg_color=ffffff&color=171717&line=171717&point=0072f5&area_color=ebf5ff" height="220" alt="Activity Graph" />
 </picture>
 
+
 ###
 
-<br clear="both">
+<!-- ═══ DIVIDER ════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
+</picture>
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=LienThuan04&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LienThuan04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LienThuan04&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph.svg" width="100%" />
+</picture>
+
+
+<!-- ═══ BOTTOM DIVIDER ════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
+</picture>
+ 
+###
+
+<sub>
+  <img src="https://count.getloli.com/@:LienThuan04?theme=rule34&padding=6&offset=1&scale=0.8&align=top&pixelated=1&darkmode=auto" alt="Lien Hoa Thuan typing animation" />
+  <br />
+  <code>profile views</code>
+</sub>
+
+<br />
+
 </div>
-
-###
-
-<div align="center">
-  <img width="100%" src="./.github/assets/Yeshuanguang.gif"  />
-</div>
-
-###
-
-<p align="left">Social Media</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lianharman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/983724520789655613" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@LienThuan04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=lienthuan2004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://gitlab.com/LienThuan04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
-  </a>
-  <a href="https://www.facebook.com/LianHarman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left">Interested In</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
