@@ -1,20 +1,26 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/LienThuan04/LienThuan04/main/.github/assets/banner.svg" width="100%" />
 
-<!-- ═══ BANNER: GIF bg + Name + Role + Badges ════════════════ -->
-<!-- ⚠️  Commit banner.svg vào .github/assets/ trong repo       -->
-<img
-  src="./.github/assets/banner.svg"
-  width="100%"
-  alt="Lien Hoa Thuan — LianHarman" />
- 
-<!-- Badges ẩn phía dưới để vẫn có thể click được -->
-<a href="https://www.linkedin.com/in/lianharman/" title="LinkedIn" style="display:none">.</a>
-<a href="https://discord.com/users/983724520789655613" title="Discord" style="display:none">.</a>
-<a href="https://www.youtube.com/@LienThuan04" title="YouTube" style="display:none">.</a>
-<a href="https://www.facebook.com/LianHarman/" title="Facebook" style="display:none">.</a>
-<a href="https://gitlab.com/LienThuan04" title="GitLab" style="display:none">.</a>
-<a href="mailto:lienthuan2004@gmail.com" title="Gmail" style="display:none">.</a>
+  <a href="https://www.linkedin.com/in/lianharman/">
+    <img src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=ffffff" />
+  </a>
+  <a href="https://discord.com/users/983724520789655613">
+    <img src="https://img.shields.io/badge/Discord-171717?style=flat-square&logo=discord&logoColor=ffffff" />
+  </a>
+  <a href="https://www.youtube.com/@LienThuan04">
+    <img src="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
+  </a>
+  <a href="https://www.facebook.com/LianHarman/">
+    <img src="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
+  </a>
+  <a href="https://gitlab.com/LienThuan04">
+    <img src="https://img.shields.io/badge/GitLab-171717?style=flat-square&logo=gitlab&logoColor=ffffff" />
+  </a>
+  <a href="mailto:lienthuan2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-171717?style=flat-square&logo=gmail&logoColor=ffffff" />
+  </a>
+
 <br /><br />
 
 <!-- ═══ DIVIDER ════════════════════════════════════════════════ -->
