@@ -15,7 +15,8 @@
     srcset="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman" />
-  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman" alt="Lien Hoa Thuan typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman"
+       alt="Lien Hoa Thuan typing animation" />
 </picture>
 
 <!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
