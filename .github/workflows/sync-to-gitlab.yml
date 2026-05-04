@@ -1,0 +1,21 @@
+name: Sync to GitLab Profile
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to GitLab
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+        run: |
+          git push "https://oauth2:${GITLAB_TOKEN}@gitlab.com/LienThuan04/LienThuan04.git" --all --force
