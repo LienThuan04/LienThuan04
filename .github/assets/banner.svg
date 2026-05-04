@@ -1,0 +1,71 @@
+<svg width="800" height="250" viewBox="0 0 800 250"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <defs>
+    <clipPath id="clip"><rect width="800" height="250"/></clipPath>
+    <style>
+      .name {
+        font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+        font-size: 38px; font-weight: 700; letter-spacing: -1.5px;
+        fill: #ffffff; text-anchor: middle; dominant-baseline: middle;
+      }
+      .role {
+        font-family: 'Courier New', monospace;
+        font-size: 13px; font-weight: 400; letter-spacing: 0.5px;
+        fill: rgba(255,255,255,0.55); text-anchor: middle; dominant-baseline: middle;
+      }
+    </style>
+  </defs>
+
+  <!-- GIF background -->
+  <image
+    href="./Yeshuanguang.gif"
+    x="0" y="0" width="800" height="250"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#clip)" />
+
+  <!-- Dark overlay -->
+  <rect x="0" y="0" width="800" height="250" fill="rgba(0,0,0,0.50)" />
+
+  <!-- Top divider -->
+  <line x1="0" y1="1" x2="800" y2="1" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+
+  <!-- Name -->
+  <text class="name" x="400" y="88">Lien Hoa Thuan</text>
+
+  <!-- Role -->
+  <text class="role" x="400" y="130">TypeScript · NextJS · NestJS</text>
+
+  <!-- Badges via shields.io embedded as <image> -->
+  <!-- Total badge row width ≈ 462px → start x = (800-462)/2 = 169 -->
+  <!-- Each badge height=20, y=170 -->
+
+  <!-- LinkedIn ~78px -->
+  <image href="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&amp;logo=linkedin&amp;logoColor=ffffff"
+    x="169" y="170" width="78" height="20"/>
+
+  <!-- Discord ~75px -->
+  <image href="https://img.shields.io/badge/Discord-171717?style=flat-square&amp;logo=discord&amp;logoColor=ffffff"
+    x="255" y="170" width="75" height="20"/>
+
+  <!-- YouTube ~78px -->
+  <image href="https://img.shields.io/badge/YouTube-171717?style=flat-square&amp;logo=youtube&amp;logoColor=ffffff"
+    x="338" y="170" width="78" height="20"/>
+
+  <!-- Facebook ~80px -->
+  <image href="https://img.shields.io/badge/Facebook-171717?style=flat-square&amp;logo=facebook&amp;logoColor=ffffff"
+    x="424" y="170" width="80" height="20"/>
+
+  <!-- GitLab ~66px -->
+  <image href="https://img.shields.io/badge/GitLab-171717?style=flat-square&amp;logo=gitlab&amp;logoColor=ffffff"
+    x="512" y="170" width="66" height="20"/>
+
+  <!-- Gmail ~62px -->
+  <image href="https://img.shields.io/badge/Gmail-171717?style=flat-square&amp;logo=gmail&amp;logoColor=ffffff"
+    x="586" y="170" width="62" height="20"/>
+
+  <!-- Bottom divider -->
+  <line x1="0" y1="249" x2="800" y2="249" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+
+</svg>
