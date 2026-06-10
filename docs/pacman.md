@@ -1,25 +1,26 @@
-# abozanona/pacman-contribution-graph — Tài liệu cấu hình
+# abozanona/pacman-contribution-graph — Configuration Reference · Tài liệu cấu hình
 
 Workflow: `.github/workflows/pacman.yml`
 
 ---
 
-## Mục đích
+## Purpose · Mục đích
 
+Automatically generates a Pac-Man animation eating the GitHub contribution graph squares, saves it to the `output` branch, and displays it in the README.  
 Tự động generate hoạt ảnh Pac-Man ăn các ô đóng góp (contribution graph) của GitHub, lưu vào nhánh `output` và hiển thị trong README.
 
 ---
 
-## Trigger — Khi nào workflow chạy
+## Trigger — When the workflow runs · Khi nào workflow chạy
 
 ```yaml
 on:
   schedule:
-    - cron: "* */12 * * *"   # tự chạy mỗi 12 tiếng
-  workflow_dispatch:          # chạy thủ công trên tab Actions
+    - cron: "* */12 * * *"   # every 12 hours · tự chạy mỗi 12 tiếng
+  workflow_dispatch:          # manual trigger from Actions tab · chạy thủ công trên tab Actions
   push:
     branches:
-    - main                    # chạy mỗi khi push lên main
+    - main                    # on every push to main · mỗi khi push lên main
 ```
 
 ---
@@ -33,33 +34,36 @@ on:
     github_user_name: ${{ github.repository_owner }}
 ```
 
-| Tham số             | Giá trị                            | Ý nghĩa                        |
-| ------------------- | ---------------------------------- | ------------------------------ |
-| `github_user_name`  | `${{ github.repository_owner }}`   | Tự lấy tên user từ repo, không cần hardcode |
+| Parameter · Tham số | Value · Giá trị | Notes · Ghi chú |
+| ------------------- | --------------- | --------------- |
+| `github_user_name`  | `${{ github.repository_owner }}` | Auto-reads repo owner, no hardcoding needed · Tự lấy tên user từ repo, không cần hardcode |
 
-Output sinh ra: thư mục `dist/` chứa 2 file:
-- `pacman-contribution-graph.svg` — theme sáng
-- `pacman-contribution-graph-dark.svg` — theme tối
+Output is generated in the `dist/` folder with 2 files:  
+Output sinh ra trong thư mục `dist/` gồm 2 file:
+
+- `pacman-contribution-graph.svg` — light theme · theme sáng
+- `pacman-contribution-graph-dark.svg` — dark theme · theme tối
 
 ---
 
-## Step 2 — Push sang nhánh `output`
+## Step 2 — Push to `output` branch · Push sang nhánh `output`
 
 ```yaml
 - name: push pacman-contribution-graph.svg to the output branch
   uses: crazy-max/ghaction-github-pages@v3.1.0
   with:
-    target_branch: output    # push vào nhánh output (không phải main)
-    build_dir: dist          # lấy nội dung từ thư mục dist/
+    target_branch: output    # push to output branch, not main · push vào nhánh output, không phải main
+    build_dir: dist          # take content from dist/ folder · lấy nội dung từ thư mục dist/
   env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # token tự động, không cần tạo thủ công
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # auto token, no manual setup needed · token tự động, không cần tạo thủ công
 ```
 
 ---
 
-## Cách README đọc file
+## How README reads the files · Cách README đọc file
 
-SVG nằm trên nhánh `output`, README dùng `raw.githubusercontent.com` để nhúng:
+The SVG lives on the `output` branch. The README embeds it via `raw.githubusercontent.com`:  
+SVG nằm trên nhánh `output`. README dùng `raw.githubusercontent.com` để nhúng:
 
 ```html
 <picture>
@@ -71,12 +75,16 @@ SVG nằm trên nhánh `output`, README dùng `raw.githubusercontent.com` để 
 </picture>
 ```
 
+> **If you forked this repo · Nếu bạn fork repo này**: replace `LienThuan04/LienThuan04` with `your-username/your-username` in both `srcset` URLs.  
+> Thay `LienThuan04/LienThuan04` thành `your-username/your-username` trong cả 2 URL `srcset`.
+
 ---
 
-## Khác với metrics.yml
+## Comparison with metrics.yml · Khác với metrics.yml
 
 | | `pacman.yml` | `metrics.yml` |
 |---|---|---|
-| Lưu file vào | Nhánh `output` | Nhánh `main` (`.github/assets/`) |
-| Token dùng | `GITHUB_TOKEN` (tự động) | PAT tự tạo (`LienThuan04_Profile_Readme_GitHub`) |
-| Tần suất | Mỗi 12 tiếng | Mỗi ngày lúc 2:00 AM |
+| Saves file to · Lưu file vào | `output` branch | `main` branch (`.github/assets/`) |
+| Token used · Token dùng | `GITHUB_TOKEN` (automatic · tự động) | PAT created manually · PAT tự tạo |
+| Frequency · Tần suất | Every 12 hours · Mỗi 12 tiếng | Daily at 2:00 AM UTC · Mỗi ngày 2:00 AM |
+| README references · README trỏ đến | `raw.githubusercontent.com` URL | Local file path · Đường dẫn file local |

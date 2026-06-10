@@ -109,13 +109,6 @@
 </table>
 <br />
 
-
-###
-
-<div align="center">
-  <img width="100%" src="./.github/assets/Yeshuanguang.gif" alt="Lien Hoa Thuan typing animation" />
-</div>
-
 ## Activity
 
 <br clear="both">
@@ -150,6 +143,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
 </picture>
+
+### Favorite plugins
+
+<div align="center">
+  <img width="100%" src="./.github/assets/Yeshuanguang.gif" alt="Lien Hoa Thuan typing animation" />
+</div>
+
  
 ###
 
@@ -158,7 +158,5 @@
   <br />
   <code>profile views</code>
 </sub>
-
-<br />
 
 </div>
