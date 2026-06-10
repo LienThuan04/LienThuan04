@@ -120,17 +120,9 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LienThuan04&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LienThuan04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="./.github/assets/metrics-stats.svg" alt="GitHub Stats" width="100%" />
+  <img src="./.github/assets/metrics-activity.svg" alt="Activity Calendar" width="100%" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=LienThuan04&radius=4&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=ffffff&line=5ba4f5&point=5ba4f5&area_color=1a2a3a" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=LienThuan04&radius=4&theme=minimal&area=true&hide_border=true&bg_color=ffffff&color=171717&line=171717&point=0072f5&area_color=ebf5ff" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LienThuan04&radius=4&theme=minimal&area=true&hide_border=true&bg_color=ffffff&color=171717&line=171717&point=0072f5&area_color=ebf5ff" height="220" alt="Activity Graph" />
-</picture>
 
 
 ###
