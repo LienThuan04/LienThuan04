@@ -2,7 +2,6 @@ name: Sync to GitLab Profile
 
 on:
   push:
-    branches: [ main ]
 
 jobs:
   sync:
