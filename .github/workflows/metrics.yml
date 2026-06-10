@@ -17,7 +17,7 @@ jobs:
       - name: Stats & Languages
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.LienThuan04_Profile_Readme_GitHub }}
           filename: .github/assets/metrics-stats.svg
           base: header, activity, community, repositories
           plugin_languages: yes
@@ -29,7 +29,7 @@ jobs:
       - name: Activity Calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.LienThuan04_Profile_Readme_GitHub }}
           filename: .github/assets/metrics-activity.svg
           base: ""
           plugin_isocalendar: yes
