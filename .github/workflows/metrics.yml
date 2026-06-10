@@ -24,7 +24,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: percentage
           plugin_languages_threshold: 0%
-          plugin_languages_ignored: HTML, CSS, PHP
+          plugin_languages_ignored: html, css, php
           config_timezone: Asia/Ho_Chi_Minh
 
       - name: Activity Calendar
