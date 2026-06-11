@@ -102,7 +102,7 @@
     <td align="center" valign="top" width="50%">
       <h3>Discord Status</h3>
       <a href="https://discord.com/users/983724520789655613">
-        <img src="https://lanyard.kyrie25.dev/api/983724520789655613?animatedDecoration=true&showDisplayName=true&forceGradient=false&imgStyle=circle&showBanner=animated&theme=dark&ignoreAppId=983724520789655613" alt="Discord Status" width="100%" style="border-radius: 8px;" />
+        <img src="https://lianharman-discord.vercel.app/api/983724520789655613?animatedDecoration=true&showDisplayName=true&forceGradient=true&showBanner=animated" alt="Discord Status" width="100%" style="border-radius: 8px;" />
       </a>
     </td>
   </tr>
