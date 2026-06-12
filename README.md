@@ -144,7 +144,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
 </picture>
 
-### Favorite plugins
+### Favorite Character
 
 <div align="center">
   <img width="100%" src="./.github/assets/Yeshuanguang.gif" alt="Lien Hoa Thuan typing animation" />
