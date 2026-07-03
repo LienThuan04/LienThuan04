@@ -79,7 +79,6 @@
   </picture>
 </a>
 
-
 <!-- ═══ DIVIDER ════════════════════════════════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333" />
@@ -117,7 +116,6 @@
   <img src="./.github/assets/metrics-activity.svg" alt="Activity Calendar" width="100%" />
 </div>
 
-
 ###
 
 <!-- ═══ DIVIDER ════════════════════════════════════════════════ -->
@@ -127,7 +125,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
 </picture>
 
-
 ## Contributions
 
 <picture>
@@ -135,7 +132,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph.svg" />
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
-
 
 <!-- ═══ BOTTOM DIVIDER ════════════════════════════════════════ -->
 <picture>
@@ -149,7 +145,6 @@
 <div align="center">
   <img width="100%" src="./.github/assets/Yeshuanguang.gif" alt="Lien Hoa Thuan typing animation" />
 </div>
-
  
 ###
 
