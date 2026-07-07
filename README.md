@@ -143,11 +143,29 @@
 ### Favorite Character In ZZZ
 
 <div align="center">
-  <img width="100%" src="./.github/assets/Yeshuanguang.gif" alt="Lien Hoa Thuan typing animation" />
+
+<!-- ═══ FAVORITE CHARACTERS ════════════════════════════════════
+     Cách thêm nhân vật mới:
+       1. Bỏ file .gif/.png vào ./.github/assets/
+       2. Copy 1 khối <td> ... </td> bên dưới và sửa src + tên
+       3. Mỗi hàng (<tr>) nên để tối đa 2 nhân vật cho cân đối
+     ═══════════════════════════════════════════════════════════ -->
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <img width="100%" src="./.github/assets/YeShunguang.gif" alt="Ye Shunguang" />
+      <br />
+      <sub><b>Ye Shunguang</b></sub>
+    </td>
+    <!-- Nhân vật tiếp theo: copy khối <td> phía trên vào đây -->
+  </tr>
+</table>
+
 </div>
  
-###
+### 
 
+<!-- views -->
 <sub>
   <img src="https://count.getloli.com/@:LienThuan04?theme=rule34&padding=6&offset=1&scale=0.8&align=top&pixelated=1&darkmode=auto" alt="Lien Hoa Thuan typing animation" />
   <br />
