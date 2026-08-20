@@ -152,7 +152,12 @@
      ═══════════════════════════════════════════════════════════ -->
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
+      <img width="100%" src="./.github/assets/Remielle_EP.gif" alt="Remielle Dan" />
+      <br />
+      <sub><b>Remielle Dan</b></sub>
+    </td>
+    <td align="center" width="50%">
       <img width="100%" src="./.github/assets/YeShunguang.gif" alt="Ye Shunguang" />
       <br />
       <sub><b>Ye Shunguang</b></sub>
