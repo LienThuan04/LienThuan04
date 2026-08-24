@@ -140,7 +140,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
 </picture>
 
-### Favorite Character In ZZZ
+### Favorite Character
 
 <div align="center">
 
