@@ -94,8 +94,8 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <h3>Spotify Now Playing</h3>
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" alt="Spotify Now Playing" width="100%" style="border-radius: 8px;" />
+      <a href="https://spotify-github-profile-lian-harman.vercel.app/api/view?uid=316jq374l35difgshqzgcymbjolu&redirect=true">
+        <img src="https://spotify-github-profile-lian-harman.vercel.app/api/view?uid=316jq374l35difgshqzgcymbjolu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" alt="Spotify Now Playing" width="100%" style="border-radius: 8px;" />
       </a>
     </td>
     <td align="center" valign="top" width="50%">
