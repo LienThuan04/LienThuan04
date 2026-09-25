@@ -125,20 +125,20 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
 </picture>
 
-## Contributions
+<!-- ## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph.svg" />
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/LienThuan04/LienThuan04/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
+</picture> -->
 
 <!-- ═══ BOTTOM DIVIDER ════════════════════════════════════════ -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ebebeb" />
-</picture>
+</picture> -->
 
 ### Favorite Character
 
