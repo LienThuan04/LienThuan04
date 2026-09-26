@@ -47,14 +47,14 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://www.youtube.com/@LienThuan04">
+<!-- <a href="https://www.youtube.com/@LienThuan04">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/YouTube-ffffff?style=flat-square&logo=youtube&logoColor=171717" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
   </picture>
 </a>
-&nbsp;
+&nbsp; -->
 <a href="https://www.facebook.com/LianHarman/">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Facebook-ffffff?style=flat-square&logo=facebook&logoColor=171717" />
