@@ -2,6 +2,9 @@ name: Sync to GitLab Profile
 
 on:
   push:
+  schedule:
+    - cron: "0 0 * * *" # 00:00 UTC = 07:00 Việt Nam
+  workflow_dispatch: # Cho phép chạy thủ công
 
 jobs:
   sync:
