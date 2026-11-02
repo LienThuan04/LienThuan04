@@ -12,20 +12,24 @@
 <!-- ═══ NAME ══════════════════════════════════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman" />
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;Lian+Harman" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman" />
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;LianHarman"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;Lian+Harman" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=40&duration=3000&pause=800&color=171717&center=true&vCenter=true&width=600&lines=Lien+Hoa+Thuan;Lian+Harman"
        alt="Lien Hoa Thuan typing animation" />
 </picture>
 
 <!-- ═══ ROLE ═══════════════════════════════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"
+  <!-- <source media="(prefers-color-scheme: dark)"
     srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=IT+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=IT+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" />
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=IT+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" alt="Lien Hoa Thuan typing animation" />
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=IT+Student+%E2%80%94+Can+Tho+City;TypeScript+%C2%B7+NextJS+%C2%B7+NestJS" /> -->
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=Freelance+IT+Specialist+%E2%80%94+Can+Tho+City;" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=Freelance+IT+Specialist+%E2%80%94+Can+Tho+City;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=14&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=Freelance+IT+Specialist+%E2%80%94+Can+Tho+City;" alt="Lien Hoa Thuan typing animation" />
 </picture>
 
 <br />
@@ -47,19 +51,19 @@
   </picture>
 </a>
 &nbsp;
-<!-- <a href="https://www.youtube.com/@LienThuan04">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/YouTube-ffffff?style=flat-square&logo=youtube&logoColor=171717" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/YouTube-171717?style=flat-square&logo=youtube&logoColor=ffffff" />
-  </picture>
-</a>
-&nbsp; -->
 <a href="https://www.facebook.com/LianHarman/">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Facebook-ffffff?style=flat-square&logo=facebook&logoColor=171717" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=ffffff" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://www.tiktok.com/@lian_harman/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/TikTok-ffffff?style=flat-square&logo=tiktok&logoColor=171717" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TikTok-171717?style=flat-square&logo=tiktok&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/TikTok-171717?style=flat-square&logo=tiktok&logoColor=ffffff" />
   </picture>
 </a>
 &nbsp;
