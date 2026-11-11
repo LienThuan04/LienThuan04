@@ -7,6 +7,9 @@ on:
   push:
     branches: [main]
 
+# Each card is rendered twice (dark + light) so the README can switch them
+# with <picture>, following the viewer's GitHub theme instead of their OS theme.
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,25 +17,74 @@ jobs:
       contents: write
 
     steps:
-      - name: Stats & Languages
+      - name: Stats & Languages (dark)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.LienThuan04_Profile_Readme_GitHub }}
-          filename: .github/assets/metrics-stats.svg
+          filename: .github/assets/metrics-stats-dark.svg
           base: header, activity, community, repositories
           plugin_languages: yes
           plugin_languages_limit: 10
           plugin_languages_details: percentage
           plugin_languages_threshold: 0%
-          plugin_languages_ignored: 
+          plugin_languages_ignored:
           config_timezone: Asia/Ho_Chi_Minh
+          extras_css: |
+            svg { color: #e6edf3 !important; font-weight: 500; }
+            .items-wrapper { background: #161b22; border: 1px solid #3d444d; border-radius: 6px; padding: 8px 12px 14px; box-sizing: border-box; }
+            h1, h2, h3 { color: #f0f6fc !important; font-weight: 600 !important; }
+            .field { color: #e6edf3 !important; }
+            .field svg { fill: #9198a1 !important; }
+            .field.language.details small, .field.license.details small { color: #9198a1 !important; font-weight: 600 !important; }
 
-      - name: Activity Calendar
+      - name: Stats & Languages (light)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.LienThuan04_Profile_Readme_GitHub }}
-          filename: .github/assets/metrics-activity.svg
+          filename: .github/assets/metrics-stats-light.svg
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_limit: 10
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 0%
+          plugin_languages_ignored:
+          config_timezone: Asia/Ho_Chi_Minh
+          extras_css: |
+            svg { color: #1f2328 !important; font-weight: 500; }
+            .items-wrapper { background: #f6f8fa; border: 1px solid #d1d9e0; border-radius: 6px; padding: 8px 12px 14px; box-sizing: border-box; }
+            h1, h2, h3 { color: #1f2328 !important; font-weight: 600 !important; }
+            .field { color: #1f2328 !important; }
+            .field svg { fill: #59636e !important; }
+            .field.language.details small, .field.license.details small { color: #59636e !important; font-weight: 600 !important; }
+
+      - name: Activity Calendar (dark)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.LienThuan04_Profile_Readme_GitHub }}
+          filename: .github/assets/metrics-activity-dark.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Ho_Chi_Minh
+          extras_css: |
+            svg { color: #e6edf3 !important; font-weight: 500; }
+            .items-wrapper { background: #161b22; border: 1px solid #3d444d; border-radius: 6px; padding: 8px 12px 14px; box-sizing: border-box; }
+            h2, h3 { color: #f0f6fc !important; font-weight: 600 !important; }
+            .field { color: #e6edf3 !important; }
+            .field svg { fill: #9198a1 !important; }
+
+      - name: Activity Calendar (light)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.LienThuan04_Profile_Readme_GitHub }}
+          filename: .github/assets/metrics-activity-light.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Ho_Chi_Minh
+          extras_css: |
+            svg { color: #1f2328 !important; font-weight: 500; }
+            .items-wrapper { background: #f6f8fa; border: 1px solid #d1d9e0; border-radius: 6px; padding: 8px 12px 14px; box-sizing: border-box; }
+            h2, h3 { color: #1f2328 !important; font-weight: 600 !important; }
+            .field { color: #1f2328 !important; }
+            .field svg { fill: #59636e !important; }
