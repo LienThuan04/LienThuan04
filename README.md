@@ -122,13 +122,13 @@
 
 <p align="center">
   <a href="https://spotify-github-profile-lian-harman.vercel.app/api/view?uid=316jq374l35difgshqzgcymbjolu&amp;redirect=true" title="Open in Spotify">
-    <img src="https://spotify-github-profile-lian-harman.vercel.app/api/view?uid=316jq374l35difgshqzgcymbjolu&amp;theme=spotify-card&amp;eq_style=iso&amp;cover_image=true&amp;show_offline=true&amp;background_color=161b22&amp;border_radius=10&amp;bar_color=9d74dc&amp;bar_color_cover=false&amp;interchange=false&amp;profanity=true&amp;hide_remaster=false" width="49%" align="top" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile-lian-harman.vercel.app/api/view?uid=316jq374l35difgshqzgcymbjolu&amp;theme=spotify-card&amp;eq_style=iso&amp;cover_image=true&amp;show_offline=true&amp;background_color=161b22&amp;border_radius=10&amp;bar_color=9d74dc&amp;bar_color_cover=false&amp;interchange=false&amp;profanity=true&amp;hide_remaster=false" width="49%" align="middle" alt="Spotify Now Playing" />
   </a>
   <a href="https://discord.com/users/983724520789655613">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="https://lianharman-discord.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=dark&bg=161b22" />
       <source media="(prefers-color-scheme: light)" srcset="https://lianharman-discord.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=light&bg=f6f8fa" />
-      <img src="https://lianharman-discord.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=dark&bg=161b22" width="49%" align="top" alt="Discord Status" />
+      <img src="https://lianharman-discord.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=dark&bg=161b22" width="49%" align="middle" alt="Discord Status" />
     </picture>
   </a>
 </p>
