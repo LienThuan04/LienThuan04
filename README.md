@@ -126,9 +126,9 @@
   </a>
   <a href="https://discord.com/users/983724520789655613">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://lianharman-discord.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=dark&bg=161b22" />
-      <source media="(prefers-color-scheme: light)" srcset="https://lianharman-discord.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=light&bg=f6f8fa" />
-      <img src="https://lianharman-discord.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=dark&bg=161b22" width="49%" align="middle" alt="Discord Status" />
+      <source media="(prefers-color-scheme: dark)"  srcset="https://discord-pulse-lian.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=dark&bg=161b22" />
+      <source media="(prefers-color-scheme: light)" srcset="https://discord-pulse-lian.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=light&bg=f6f8fa" />
+      <img src="https://discord-pulse-lian.vercel.app/api/983724520789655613?animatedDecoration=false&showDisplayName=true&showBanner=static&theme=dark&bg=161b22" width="49%" align="middle" alt="Discord Status" />
     </picture>
   </a>
 </p>
