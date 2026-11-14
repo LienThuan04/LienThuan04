@@ -121,8 +121,8 @@
 </picture>
 
 <p align="center">
-  <a href="https://spotify-github-profile-lian-harman.vercel.app/api/view?uid=316jq374l35difgshqzgcymbjolu&amp;redirect=true" title="Open in Spotify">
-    <img src="https://spotify-github-profile-lian-harman.vercel.app/api/view?uid=316jq374l35difgshqzgcymbjolu&amp;theme=spotify-card&amp;eq_style=iso&amp;cover_image=true&amp;show_offline=true&amp;background_color=161b22&amp;border_radius=10&amp;bar_color=9d74dc&amp;bar_color_cover=false&amp;interchange=false&amp;profanity=true&amp;hide_remaster=false" width="49%" align="middle" alt="Spotify Now Playing" />
+  <a href="https://spotify-spark.vercel.app/api/view?uid=316jq374l35difgshqzgcymbjolu&amp;redirect=true" title="Open in Spotify">
+    <img src="https://spotify-spark.vercel.app/api/view?uid=316jq374l35difgshqzgcymbjolu&amp;theme=spotify-card&amp;eq_style=iso&amp;cover_image=true&amp;show_offline=true&amp;background_color=161b22&amp;border_radius=10&amp;bar_color=9d74dc&amp;bar_color_cover=false&amp;interchange=false&amp;profanity=true&amp;hide_remaster=false" width="49%" align="middle" alt="Spotify Now Playing" />
   </a>
   <a href="https://discord.com/users/983724520789655613">
     <picture>
